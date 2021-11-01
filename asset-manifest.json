@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/food-order/static/css/main.6512844a.chunk.css",
+    "main.js": "/food-order/static/js/main.8784a762.chunk.js",
+    "main.js.map": "/food-order/static/js/main.8784a762.chunk.js.map",
+    "runtime-main.js": "/food-order/static/js/runtime-main.d9f5fa06.js",
+    "runtime-main.js.map": "/food-order/static/js/runtime-main.d9f5fa06.js.map",
+    "static/css/2.fbe16718.chunk.css": "/food-order/static/css/2.fbe16718.chunk.css",
+    "static/js/2.4f06a795.chunk.js": "/food-order/static/js/2.4f06a795.chunk.js",
+    "static/js/2.4f06a795.chunk.js.map": "/food-order/static/js/2.4f06a795.chunk.js.map",
+    "static/js/3.b8aa579a.chunk.js": "/food-order/static/js/3.b8aa579a.chunk.js",
+    "static/js/3.b8aa579a.chunk.js.map": "/food-order/static/js/3.b8aa579a.chunk.js.map",
+    "index.html": "/food-order/index.html",
+    "static/css/2.fbe16718.chunk.css.map": "/food-order/static/css/2.fbe16718.chunk.css.map",
+    "static/css/main.6512844a.chunk.css.map": "/food-order/static/css/main.6512844a.chunk.css.map",
+    "static/js/2.4f06a795.chunk.js.LICENSE.txt": "/food-order/static/js/2.4f06a795.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/food-order/static/media/bootstrap-icons.d0ec932c.woff2",
+    "static/media/enjoy.257ba404.png": "/food-order/static/media/enjoy.257ba404.png",
+    "static/media/index.css": "/food-order/static/media/rendang.0a1095af.jpg",
+    "static/media/location.7b05fed9.png": "/food-order/static/media/location.7b05fed9.png",
+    "static/media/order.7fa84707.png": "/food-order/static/media/order.7fa84707.png",
+    "static/media/pay.c8d0df90.png": "/food-order/static/media/pay.c8d0df90.png",
+    "static/media/styles.css": "/food-order/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9f5fa06.js",
+    "static/css/2.fbe16718.chunk.css",
+    "static/js/2.4f06a795.chunk.js",
+    "static/css/main.6512844a.chunk.css",
+    "static/js/main.8784a762.chunk.js"
+  ]
+}
